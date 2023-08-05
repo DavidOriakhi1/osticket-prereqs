@@ -74,9 +74,36 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/eO4Ke2T.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d1DGni9.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-The picture above is the simple list
+5. Download and Install 'MYSQL' and set your username and password
+<p>
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/pOukw2x.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+6. Download osTicket and configure the recommended settings. Next, create your helpdesk url, email, and a username and password to use to log in to osTicket once installed. (Dont Forget!)
+<p>
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/d1DGni9.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+5. Download and Install 'MYSQL' and set your username and password
+<p>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/d1DGni9.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+5. Download and Install 'MYSQL' and set your username and password
 <p>
 </p>
 <br />
