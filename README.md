@@ -93,17 +93,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/d1DGni9.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bc9tbC8.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-5. Download and Install 'MYSQL' and set your username and password
+7. Download 'Heidi SQL' and create a new session with a username and password.
+-Next, connect to the session and create a database and name it 'osTicket'
 <p>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/d1DGni9.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RX18URa.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-5. Download and Install 'MYSQL' and set your username and password
+8. Finally, osTicket is installed with no errors! Now able to log in as an admin with the username and password created previously.
 <p>
 </p>
 <br />
