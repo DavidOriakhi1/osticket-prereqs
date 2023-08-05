@@ -93,8 +93,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/bc9tbC8.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lMq0KUf.jpg"80%" width="80%" 
 </p>
+
 7. Download 'Heidi SQL' and create a new session with a username and password.
 -Next, connect to the session and create a database and name it 'osTicket'
 <p>
