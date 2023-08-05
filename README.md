@@ -19,11 +19,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+-Create Resource group in Azure
+
+-Connect to Remote Desktop
+
+-Install: Internet Information Services, PHP manager for IIS, Rewrite Module, VC_Redist, My SQL, osTicket
+
+-Download Heidi SQL
+
+-Install osTicket
 
 
 - 
@@ -56,6 +60,15 @@ This picture above is the command prompt posted for the second time
 
 <p>
 <img src="https://i.imgur.com/zhzPHka.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+The picture above is the simple list
+<p>
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/eO4Ke2T.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 The picture above is the simple list
 <p>
