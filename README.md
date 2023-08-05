@@ -54,6 +54,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
+<img src="https://i.imgur.com/zpRCSxf.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/b228qh5.jpg"width="80%" alt="Disk Sanitization Steps"/>
+3. Install 'Internet Information Services' (IIS) and enable 'CGI'
+<p>
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/eO4Ke2T.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+The picture above is the simple list
+<p>
+</p>
+<br />
+
+
+
+<p>
 <img src="https://i.imgur.com/eO4Ke2T.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 The picture above is the simple list
