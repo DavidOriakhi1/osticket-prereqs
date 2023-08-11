@@ -64,7 +64,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/f6sJ7Uq.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HoMrzwM.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 4. Download+Install: PHP manager for IIS, Rewrite module, and put contents into your 'C:\PHP' Folder
 <p>
