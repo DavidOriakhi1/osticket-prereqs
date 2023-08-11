@@ -103,7 +103,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/RX18URa.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vv8KHJP.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 8. Finally, osTicket is installed with no errors! Now able to log in as an admin with the username and password created previously.
 <p>
