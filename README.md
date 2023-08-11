@@ -74,7 +74,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/Nxy83iL.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xpD1Pq8.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 5. Download and Install 'MYSQL' and set your username and password
 <p>
