@@ -35,8 +35,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/7dV4k9S.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <img src="https://i.imgur.com/LMDH9wq.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/qtDUjuo.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/lssMkfU.jpg"80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
  1. Create a resource group in microsoft azure & a virtual machine using windows 10, with 2 vcpu's
 </p>
@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/PCvrRg9.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1tdVovC.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 2. Copy+paste the 'public Ip address' of the Virtual machine created into 'Remote desktop' and log in with the username and password you created
 <p>
@@ -54,9 +54,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/zpRCSxf.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0gCaZR5.jpg"width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/b228qh5.jpg"width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tCTmjhD.jpg"width="80%" alt="Disk Sanitization Steps"/>
 3. Install 'Internet Information Services' (IIS) and enable 'CGI'
 <p>
 </p>
