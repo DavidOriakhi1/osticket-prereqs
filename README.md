@@ -35,8 +35,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/qtDUjuo.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <img src="https://i.imgur.com/lssMkfU.jpg"80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/cCSnKW2.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/SyJM0cf.jpg"80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
  1. Create a resource group in microsoft azure & a virtual machine using windows 10, with 2 vcpu's
 </p>
