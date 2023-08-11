@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/cCSnKW2.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ckeQBgA.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/SyJM0cf.jpg"80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
  1. Create a resource group in microsoft azure & a virtual machine using windows 10, with 2 vcpu's
@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/1tdVovC.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WXbZGv7.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 2. Copy+paste the 'public Ip address' of the Virtual machine created into 'Remote desktop' and log in with the username and password you created
 <p>
