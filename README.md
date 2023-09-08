@@ -83,7 +83,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/vv8KHJP.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7xwPchF.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 6. Download osTicket and configure the recommended settings. Next, create your helpdesk url, email, and a username and password to use to log in to osTicket once installed. (Dont Forget!)
 <p>
