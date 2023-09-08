@@ -64,7 +64,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/ObnCdrO.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TOXVAip.jpg"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 4. Download+Install: PHP manager for IIS, Rewrite module, and put contents into your 'C:\PHP' Folder
 <p>
@@ -74,7 +74,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/xpD1Pq8.jpg"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=" "80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 5. Download and Install 'MYSQL' and set your username and password
 <p>
